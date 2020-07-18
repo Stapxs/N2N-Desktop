@@ -1,5 +1,6 @@
 ~~~
 半成品警告：这玩意还没做完，有一吨的 BUG 和 基础功能未完成！
+Half-finished warning: This thing is not finished, there are a ton of bugs and basic features not finished!
 ~~~
 
 # N2N-Desktop
