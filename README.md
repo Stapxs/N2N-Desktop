@@ -1,4 +1,7 @@
 ~~~
+大声提醒一下：因为我最近超级超级的忙加上我没有东西可以用来测试，这玩意最近不会更新，我也不会回复任何 Issues，在我有空进行更新之后，我会统一回复！
+Remind loudly: because I am very, very busy recently and I have nothing to test, this thing will not be updated recently, and I will not reply any Issues. When I have time to update, I will reply uniformly!
+~~~
 半成品警告：这玩意还没做完，有一吨的 BUG 和 基础功能未完成！
 Half-finished warning: This thing is not finished, there are a ton of bugs and basic features not finished!
 ~~~
