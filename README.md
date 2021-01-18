@@ -18,7 +18,7 @@ N2N 是个超级棒的轻型 VPN 软件，既然你都找到这个项目了，�
 - 点击配置名前启用配置
 
 
-![图片](https://stapx.chuhelan.com/lib/pic/n.png)
+![图片](Selech.png)
 
 
 - 右击运行按钮可以显示 N2N 的运行 log，同时也会输出进程守护的相关日志！
